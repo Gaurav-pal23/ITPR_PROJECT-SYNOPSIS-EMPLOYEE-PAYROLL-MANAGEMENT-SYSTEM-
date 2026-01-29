@@ -1,12 +1,12 @@
 # Employee Payroll Management System
-A CLI based Application*
+A CLI based Application
 
 ## Introduction
 The Employee Payroll Management System is a Java-based Maven project designed to
 automate and simplify payroll processing in an organization. The system calculates
 employee salaries based on predefined salary structure, attendance, tax deductions,
 and bonuses.
-This project is developed as an * project based on training* to demonstrate the practical
+This project is developed as an **project based on training** to demonstrate the practical
 implementation of Core Java concepts, Maven project management, and basic business
 logic used in payroll systems.
 
@@ -114,7 +114,7 @@ Net Salary = 34500
 - MySQL Official Documentation
 - GeeksforGeeks (Java)
 
-## 🏷️ Project Type
+##  Project Type
 Academic Mini Project  
 Maven-Based Java Application  
 CLI Payroll Management System
